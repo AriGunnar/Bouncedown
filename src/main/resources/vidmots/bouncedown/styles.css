@@ -1,0 +1,16 @@
+#LeikbordPane {
+    -fx-background-image: url("shurimaWp.png");
+}
+.StandaStyle{
+    -fx-image: url("bolti.png");
+       -fx-fit-width: 347.0px;
+         -fx-fit-height: 253.0px;
+}
+.RullaStyle{
+    -fx-image: url("rulla.png");
+    -fx-fit-width: 347.0px;
+     -fx-fit-height: 253.0px;
+}
+
+
+

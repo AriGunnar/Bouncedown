@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import vidmots.bouncedown.Leikbord?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="636.0" fx:controller="vidmots.bouncedown.BouncingController" prefWidth="1011.0" xmlns="http://javafx.com/javafx/17.0.2" xmlns:fx="http://javafx.com/fxml/1">
+   <bottom>
+      <Label fx:id="Stig" prefHeight="108.0" prefWidth="294.0" text="Label" BorderPane.alignment="CENTER" />
+   </bottom>
+   <center>
+      <Leikbord fx:id="LeikbordPane" BorderPane.alignment="CENTER" />
+   </center>
+
+
+</BorderPane>

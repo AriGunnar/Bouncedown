@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+
+
+<fx:root type="javafx.scene.image.ImageView" fitHeight="253.0" fitWidth="347.0" pickOnBounds="true" preserveRatio="true" xmlns="http://javafx.com/javafx/17.0.2b" xmlns:fx="http://javafx.com/fxml/1">
+<image>
+    <Image url="@bolti.png"/>
+</image>
+</fx:root>
+
